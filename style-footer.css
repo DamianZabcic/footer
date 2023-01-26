@@ -1,0 +1,11 @@
+.footer-background {
+    background-color: #181818;
+    margin-top: 0px;
+}
+
+.footer-texto {
+    width: 200px;
+    padding: 20px 0px 20px 0px;
+    display: block;
+    margin: 0 auto;
+}
