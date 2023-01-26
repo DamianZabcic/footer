@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="autor.svg"
+   sodipodi:docname="autor - copia.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,8 +24,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.92648709"
-     inkscape:cx="316.78801"
-     inkscape:cy="68.538462"
+     inkscape:cx="338.37493"
+     inkscape:cy="71.776499"
      inkscape:window-width="1366"
      inkscape:window-height="705"
      inkscape:window-x="-8"
@@ -44,16 +44,58 @@
      id="layer1"
      transform="translate(-14.849999,-6.6420188)"
      sodipodi:insensitive="true">
-    <text
-       xml:space="preserve"
-       style="font-size:13.2604px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.710376"
-       x="103.35088"
-       y="21.760664"
-       id="text1376"><tspan
-         sodipodi:role="line"
-         id="tspan1374"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Press Start 2P';-inkscape-font-specification:'Press Start 2P';fill:#ffffff;stroke-width:0.710376"
-         x="103.35088"
-         y="21.760664">Damián Zabcic</tspan></text>
+    <g
+       aria-label="Damián Zabcic"
+       id="text1376"
+       style="font-size:13.2604px;line-height:1.25;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.710376">
+      <path
+         d="M 17.158449,20.103114 V 8.5002642 h 8.28775 v 1.6575498 h 1.65755 v 1.65755 h 1.65755 v 4.97265 h -1.65755 v 1.65755 h -1.65755 v 1.65755 z m 3.3151,-1.65755 h 3.3151 v -1.65755 h 1.65755 v -4.97265 h -1.65755 v -1.65755 h -3.3151 z"
+         style="font-family:'Press Start 2P';-inkscape-font-specification:'Press Start 2P'"
+         id="path823" />
+      <path
+         d="m 32.076373,20.103114 v -1.65755 h -1.65755 v -1.65755 h 1.65755 v -1.65755 h 6.6302 v -1.65755 h -6.6302 v -1.65755 h 8.28775 v 1.65755 h 1.65755 v 6.6302 z m 1.65755,-1.65755 h 4.97265 v -1.65755 h -4.97265 z"
+         style="font-family:'Press Start 2P';-inkscape-font-specification:'Press Start 2P'"
+         id="path825" />
+      <path
+         d="m 43.679197,20.103114 v -8.28775 h 9.9453 v 1.65755 h 1.65755 v 6.6302 h -3.3151 v -6.6302 h -1.65755 v 6.6302 h -3.3151 v -6.6302 h -1.65755 v 6.6302 z"
+         style="font-family:'Press Start 2P';-inkscape-font-specification:'Press Start 2P'"
+         id="path827" />
+      <path
+         d="M 61.912219,10.157814 V 8.5002642 h 3.3151 v 1.6575498 z m -3.3151,9.9453 v -1.65755 h 3.3151 v -4.97265 h -1.65755 v -1.65755 h 4.97265 v 6.6302 h 3.3151 v 1.65755 z"
+         style="font-family:'Press Start 2P';-inkscape-font-specification:'Press Start 2P'"
+         id="path829" />
+      <path
+         d="m 78.487695,10.157814 h -1.65755 V 8.5002642 h 1.65755 z m 3.3151,3.3151 v 6.6302 h -9.9453 v -1.65755 h -1.65755 v -1.65755 h 1.65755 v -1.65755 h 6.6302 v -1.65755 h -6.6302 v -1.65755 h 3.3151 v -1.65755 h 1.65755 v 1.65755 h 3.3151 v 1.65755 z m -3.3151,3.3151 h -4.97265 v 1.65755 h 4.97265 z"
+         style="font-family:'Press Start 2P';-inkscape-font-specification:'Press Start 2P'"
+         id="path831" />
+      <path
+         d="m 83.460321,20.103114 v -8.28775 h 9.9453 v 1.65755 h 1.65755 v 6.6302 h -3.3151 v -6.6302 h -4.97265 v 6.6302 z"
+         style="font-family:'Press Start 2P';-inkscape-font-specification:'Press Start 2P'"
+         id="path833" />
+      <path
+         d="m 109.98107,20.103114 v -3.3151 h 1.65755 v -1.65755 h 1.65755 v -1.65755 h 1.65755 v -1.65755 h 1.65755 v -1.65755 h -6.6302 V 8.5002642 h 11.60285 v 3.3150998 h -1.65755 v 1.65755 h -1.65755 v 1.65755 h -1.65755 v 1.65755 h -1.65755 v 1.65755 h 6.6302 v 1.65755 z"
+         style="font-family:'Press Start 2P';-inkscape-font-specification:'Press Start 2P'"
+         id="path835" />
+      <path
+         d="m 124.89899,20.103114 v -1.65755 h -1.65755 v -1.65755 h 1.65755 v -1.65755 h 6.6302 v -1.65755 h -6.6302 v -1.65755 h 8.28775 v 1.65755 h 1.65755 v 6.6302 z m 1.65755,-1.65755 h 4.97265 v -1.65755 h -4.97265 z"
+         style="font-family:'Press Start 2P';-inkscape-font-specification:'Press Start 2P'"
+         id="path837" />
+      <path
+         d="m 138.15937,20.103114 v -1.65755 h -1.65755 V 8.5002642 h 3.3151 v 3.3150998 h 6.6302 v 1.65755 h 1.65755 v 4.97265 h -1.65755 v 1.65755 z m 1.65755,-1.65755 h 4.97265 v -4.97265 h -4.97265 z"
+         style="font-family:'Press Start 2P';-inkscape-font-specification:'Press Start 2P'"
+         id="path839" />
+      <path
+         d="m 151.41974,20.103114 v -1.65755 h -1.65755 v -4.97265 h 1.65755 v -1.65755 h 9.9453 v 1.65755 h -8.28775 v 4.97265 h 8.28775 v 1.65755 z"
+         style="font-family:'Press Start 2P';-inkscape-font-specification:'Press Start 2P'"
+         id="path841" />
+      <path
+         d="M 167.99522,10.157814 V 8.5002642 h 3.3151 v 1.6575498 z m -3.3151,9.9453 v -1.65755 h 3.3151 v -4.97265 h -1.65755 v -1.65755 h 4.97265 v 6.6302 h 3.3151 v 1.65755 z"
+         style="font-family:'Press Start 2P';-inkscape-font-specification:'Press Start 2P'"
+         id="path843" />
+      <path
+         d="m 177.94048,20.103114 v -1.65755 h -1.65755 v -4.97265 h 1.65755 v -1.65755 h 9.9453 v 1.65755 h -8.28775 v 4.97265 h 8.28775 v 1.65755 z"
+         style="font-family:'Press Start 2P';-inkscape-font-specification:'Press Start 2P'"
+         id="path845" />
+    </g>
   </g>
 </svg>
